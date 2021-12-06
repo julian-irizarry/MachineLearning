@@ -10,10 +10,11 @@ A welding reasearch group constructed a dataset that contained measured weld dep
 <br><br/>
 The methods that produced the best results were a neural network optimized with Optuna and an XGB model with its hyperparameters found using Sklearn's GridSearchCV. 
 <br><br/>
-![](assets/images/optimNN.PNG)
-<br><br/>
+[![](assets/images/optimNN.PNG)](assets/images/optimNN.PNG)
 
-![](assets/images/xgb.PNG)
+The figure above gives a visual intuition on how the depths of the predicted match up to the actual values. Both figures show that the mean absolute errors are relatively close. The models were evaluated using k-fold cross validation.
+
+[![](assets/images/xgb.PNG)](assets/images/xgb.PNG)
 
 
 <br><br/>
