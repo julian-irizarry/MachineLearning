@@ -1,8 +1,8 @@
 # **Portfolio**
 
 **This page contains brief descriptions and code snippits of past projects. Click on the project for the full code and a more in-depth explanation!**
-<br/><br/>
-<br/><br/> 
+<br><br/>
+<br><br/> 
 
 ### **1.**
 
@@ -28,13 +28,13 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-<br/><br/>
+<br><br/>
 
 ### **2.**
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julian-irizarry/MachineLearning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-<br/><br/>
+<br><br/>
 
 ### **3.**
 
