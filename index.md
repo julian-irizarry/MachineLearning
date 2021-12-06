@@ -7,11 +7,11 @@
 ## **1.** [Laser Weld Depth Prediction](https://julian-irizarry.github.io/MachineLearning/WeldDepth)
 
 A welding reasearch group constructed a dataset that contained measured weld depth at various laser speeds and power. The group wanted to see if a machine learning model could accurately predict the weld depth if the laser is set to various speeds and power.
-<br></br>
+<br><br/>
 The methods that produced the best results were a neural network optimized with Optuna and an XGB model with its hyperparameters found using Sklearn's GridSearchCV. 
-<br></br>
+<br><br/>
 ![](assets/images/optimNN.PNG)
-<br></br>
+<br><br/>
 
 ![](assets/images/xgb.PNG)
 
