@@ -2,7 +2,7 @@
 
 **This page contains brief descriptions and code snippits of past projects. Click on the project for the full code and a more in-depth explanation!**
 <br><br/>
-<br><br/> 
+
 
 ## **1.** [Laser Weld Depth Prediction](https://julian-irizarry.github.io/MachineLearning/WeldDepth)
 
