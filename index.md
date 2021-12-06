@@ -4,38 +4,26 @@
 <br><br/>
 <br><br/> 
 
-### **1.**
+## **1.** [Laser Weld Depth Prediction](https://julian-irizarry.github.io/MachineLearning/WeldDepth)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A welding reasearch group constructed a dataset that contained measured weld depth at various laser speeds and power. The group wanted to see if a machine learning model could accurately predict the weld depth if the laser is set to various speeds and power.
+<br></br>
+The methods that produced the best results were a neural network optimized with Optuna and an XGB model with its hyperparameters found using Sklearn's GridSearchCV. 
+<br></br>
+![](assets/images/optimNN.PNG)
+<br></br>
 
-```markdown
-Syntax highlighted code block
+![](assets/images/xgb.PNG)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <br><br/>
 
-### **2.**
+## **2.**
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julian-irizarry/MachineLearning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 <br><br/>
 
-### **3.**
+## **3.**
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
