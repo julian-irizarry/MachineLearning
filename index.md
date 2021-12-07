@@ -19,12 +19,28 @@ The figure above gives a visual intuition on how the depths of the predicted mat
 
 <br><br/>
 
-## **2.** [Neural Networks for Music Classification]()
+## **2.** [Neural Networks for Music Classification](https://github.com/julian-irizarry/MachineLearning/tree/main/MusicClassification)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julian-irizarry/MachineLearning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Given a sample of music, the model determines which instrument (e.g. trumpet, violin, piano) is playing.  This dataset was supplied by [Prof. Juan Bello](http://steinhardt.nyu.edu/faculty/Juan_Pablo_Bello) at NYU Stenihardt  and his former PhD student Eric Humphrey (now at Spotify).
+
+<center><small><i>Mel Frequency Cepstral Coeficients</i></small></center>
+
+[![](assets/images/spectrograph.PNG)](assets/images/spectrograph.PNG)
+MFCCs represents the frequency and power in the log domain. The figure above shows MFCCs for four notes. The MFCCs are used for the classification of the instruments.
+
+<center><small><i>Training and Testing Results</i></small></center>
+
+[![](assets/images/music_results.PNG)](assets/images/music_results.PNG)
+
+After optimizing the learning rate, the test accuracy was 99.23%.
 
 <br><br/>
 
-## **3.** [Image Classification Using VGG16]
+## **3.** [Image Classification Using VGG16](https://github.com/julian-irizarry/MachineLearning/tree/main/ImageVGG16)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Transfer Learning](https://en.wikipedia.org/wiki/Transfer_learning) from VGG16 to classify a custom dataset of bikes and cars.  
+
+<center><small><i>Training and Testing Results</i></small></center>
+
+[![](assets/images/vgg_results.PNG)](assets/images/vgg_results.PNG)
+
