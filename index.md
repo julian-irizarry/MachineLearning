@@ -44,3 +44,24 @@ After optimizing the learning rate, the test accuracy was 99.23%.
 
 [![](assets/images/vgg_results.PNG)](assets/images/vgg_results.PNG)
 
+<br><br/>
+
+## **3.** [Logistic Regression Model Classifying Down Syndrome in Mice](https://github.com/julian-irizarry/MachineLearning/tree/main/Logistic)
+
+The data comes from:
+
+https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
+
+In this data, mice were characterized by three properties:
+
+* Whether they had down's syndrome (trisomy) or not.
+
+* Whether they were stimulated to learn or not.
+
+* Whether they had a drug memantine or a saline control solution.
+
+With these three choices, there are 8 possible classes for each mouse. For each mouse, the expression levels were measured across 77 genes. The characteristics can be predicted from the gene expression levels. 
+
+<center><small><i>Classification Accuracy</i></small></center>
+
+[![](assets/images/logistic.PNG)](assets/images/logistic.PNG)
