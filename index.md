@@ -4,7 +4,7 @@
 <br><br/>
 
 
-## **1.** [Laser Weld Depth Prediction](https://julian-irizarry.github.io/MachineLearning/WeldDepth)
+## **1.** [Laser Weld Depth Prediction](https://github.com/julian-irizarry/MachineLearning/tree/main/WeldDepth)
 
 A welding reasearch group constructed a dataset that contained measured weld depth at various laser speeds and power. The group wanted to see if a machine learning model could accurately predict the weld depth if the laser is set to various speeds and power.
 <br><br/>
