@@ -46,7 +46,7 @@ After optimizing the learning rate, the test accuracy was 99.23%.
 
 <br><br/>
 
-## **3.** [Logistic Regression Model Classifying Down Syndrome in Mice](https://github.com/julian-irizarry/MachineLearning/tree/main/Logistic)
+## **4.** [Logistic Regression Model Classifying Down Syndrome in Mice](https://github.com/julian-irizarry/MachineLearning/tree/main/Logistic)
 
 The data comes from:
 
