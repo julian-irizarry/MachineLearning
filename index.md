@@ -19,12 +19,12 @@ The figure above gives a visual intuition on how the depths of the predicted mat
 
 <br><br/>
 
-## **2.**
+## **2.** [Neural Networks for Music Classification]()
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julian-irizarry/MachineLearning/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 <br><br/>
 
-## **3.**
+## **3.** [Image Classification Using VGG16]
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
